@@ -1,0 +1,28 @@
+p{
+    color: aqua;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 300;
+    text-decoration: none ;
+    text-transform: none;
+    line-height: 1.5px;
+    text-indent: 20px;
+    font-style: initial;
+    text-align: center;
+
+    background-color: black;
+    background-image: url("../ duong dan den anh can goi");
+    /*
+    nguyen lý cây thư mục( con kiến leo cây)
+    ../đi lên(không được gọi tên thư mục lón hay con gọi là thư mục cha)/thư mục/đi sang/đi xuống
+     */
+}
+h1{
+    color: aqua;
+}
+b{
+    color: #08141f;
+}
+hr{
+    color: rgb(184,577,844);/*kieu viet thu 2*/
+}
